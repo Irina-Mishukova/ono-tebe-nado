@@ -28,13 +28,10 @@
 }
 
 .header__logo-image {
-  margin-left: 209px;
-  margin-right: 355px;
-}
-
-.header__logo-image {
   width: 148px;
   height: 105px;
+  margin-left: 209px;
+  margin-right: 355px;
 }
 
 .header__address,
