@@ -290,10 +290,6 @@ h2.title.about_title {
   font-weight: 400;
 }
 
-.footer {
-  display: flex;
-}
-
 div.footer_content {
   display: flex;
   justify-content: space-between;
