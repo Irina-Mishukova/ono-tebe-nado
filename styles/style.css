@@ -1,7 +1,3 @@
-.header {
-  padding: 92px 49px 92px 51px;
-}
-
 .cover {
   padding: 165px 50px 0px;
   background-image: url(../images/cover.jpg);
@@ -25,6 +21,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 92px 49px 92px 51px;
 }
 
 .header__logo-image {
