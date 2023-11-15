@@ -14,7 +14,8 @@
 }
 
 .footer {
-  margin: 0 50px 90px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .header {
@@ -292,6 +293,7 @@ div.footer_content {
   justify-content: space-between;
   width: 100%;
   margin-top: 40px;
+  margin-bottom: 90px;
 }
 
 .footer__menu {
