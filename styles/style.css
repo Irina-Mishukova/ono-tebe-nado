@@ -216,7 +216,7 @@ a.header__logo-image {
   text-transform: uppercase;
 }
 
-.lot_content {
+.lot_content,.lot_content_book {
   display: flex;
   justify-content: space-between;
   text-decoration: none;
@@ -309,7 +309,7 @@ div.footer_content {
   width: 100%;
   min-height: 97px;
   margin-top: 185px;
-  margin-bottom: 85px;
+  margin-bottom: 90px;
 }
 
 .footer__menu {
